@@ -28,7 +28,7 @@
 
  ### GitHub Stats:
 
-  <img align="left" alt="Zinkil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zinkil-YT&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img align="left" alt="Zinkil-YT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zinkil-YT&&show_icons=true&title_color=32e3e6&icon_color=c723de&text_color=32e3e6&bg_color=0d0d0d" />
 
 
 <br>
