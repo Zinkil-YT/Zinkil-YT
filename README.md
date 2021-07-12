@@ -14,13 +14,6 @@
 
 <hr>
 
-###  🎨Languages and Tools: 
-
-<div>
- <img   alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.topics.mastered.svg">
-</div>
-
-<br>
 
 ## 🏆 GitHub Trophies
 
