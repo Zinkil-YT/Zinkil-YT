@@ -8,9 +8,7 @@
 - ⚡ Fun fact: I love to Travel and play online Games/Programming
 - 📍 Location: Mansoura/Egypt :egypt: 
 
-
 <hr>
-
 
 ## 🏆 GitHub Trophies
 
