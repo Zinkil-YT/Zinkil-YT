@@ -20,7 +20,7 @@
 
 ## 👻 My Discord:
 
-<img src="https://discord.c99.nl/widget/theme-4/563636648798322689.png" />
+<img src="https://discord.c99.nl/widget/theme-2/563636648798322689.png" />
 
 <br>
 
