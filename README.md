@@ -16,7 +16,7 @@
 
 ## 💾 GitHub Stats:
 
-  <img align="left" alt="Zinkil-YT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zinkil-YT&&show_icons=true&title_color=32e3e6&icon_color=c723de&text_color=32e3e6&bg_color=0d0d0d" />
+<img align="left" alt="Zinkil-YT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zinkil-YT&&show_icons=true&title_color=32e3e6&icon_color=c723de&text_color=32e3e6&bg_color=0d0d0d" />
 
 ## 👻 My Discord:
 
@@ -26,7 +26,6 @@ code is taken from 0x00032 | https://github.com/0x00032/0x00032
 <img src="https://discord.c99.nl/widget/theme-4/563636648798322689.png" />
 
 <br>
-
 
 <!--
 **Zinkil-YT/Zinkil-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
