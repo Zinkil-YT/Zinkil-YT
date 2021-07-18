@@ -10,14 +10,22 @@
 
 <hr>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zinkil-YT&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
- ## 💾 GitHub Stats:
+## 💾 GitHub Stats:
 
   <img align="left" alt="Zinkil-YT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zinkil-YT&&show_icons=true&title_color=32e3e6&icon_color=c723de&text_color=32e3e6&bg_color=0d0d0d" />
 
+## 👻 My Discord:
+
+<!--
+code is taken from 0x00032 | https://github.com/0x00032/0x00032
+-->
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/563636648798322689.png" />
+</p>
 
 <br>
 
