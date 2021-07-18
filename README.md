@@ -18,6 +18,8 @@
 
   <img align="left" alt="Zinkil-YT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zinkil-YT&&show_icons=true&title_color=32e3e6&icon_color=c723de&text_color=32e3e6&bg_color=0d0d0d" />
 
+<br>
+
 ## 👻 My Discord:
 
 <!--
