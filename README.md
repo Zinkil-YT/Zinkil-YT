@@ -14,13 +14,11 @@
 
 <img src="https://discord.c99.nl/widget/theme-2/563636648798322689.png" />
 
-<br>
 
 ## 🏆 GitHub Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zinkil-YT&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
 
 ## 💾 GitHub Stats:
 
