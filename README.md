@@ -20,12 +20,11 @@
 
 ## 👻 My Discord:
 
-<!--
-code is taken from 0x00032 | https://github.com/0x00032/0x00032
--->
 <img src="https://discord.c99.nl/widget/theme-4/563636648798322689.png" />
 
 <br>
 
 <!--
 **Zinkil-YT/Zinkil-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
+Discord idea is taken from 0x00032 | https://github.com/0x00032/0x00032
