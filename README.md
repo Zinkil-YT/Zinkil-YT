@@ -1,4 +1,4 @@
-<img src="https://github.com/Zinkil-YT/Private-readme/blob/main/animation.svg"/>
+<img src="https://github.com/Zinkil-YT/Zinkil-YT/blob/main/animation.svg"/>
 
 #### I am a Pocketmine Developer & Programmer also  A  Content Creator .. specializiing in mostly PHP, but also write JavaScript, HTML and some other stuff.
 
