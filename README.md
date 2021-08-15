@@ -6,7 +6,8 @@
 - ❤ I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Travel and play online Games/Programming
-- 🌍 Location: Africa/Egypt :egypt: 
+- 🌍 Location: Africa/Egypt :egypt:
+- 💬 Languages: Arabic, English
 
 <h2 align="center">👻 My Discord: </h2>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/563636648798322689.png" /></p>
