@@ -24,6 +24,9 @@
 <h4 align="center">🚀 Top langs </h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinkil-YT&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Zinkil-YT :: Top Langs" /></p>
 
+<h4 align="center">🏆 My Trophies </h4>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zinkil-YT&theme=discord" alt="Zinkil-YT :: Top Langs" /></p>
+
 <br>
 
 <!--
