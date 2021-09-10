@@ -27,8 +27,6 @@
 <h4 align="center">🏆 My Trophies </h4>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zinkil-YT&theme=discord" alt="Zinkil-YT :: Top Langs" /></p>
 
-<br>
-
 <h6><b>©Copyright By Zinkil-YT - 2021</b></h6>
 
 <!--
