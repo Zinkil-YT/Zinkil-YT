@@ -29,6 +29,8 @@
 
 <br>
 
+<h6><b>©Copyright By Zinkil-YT - 2021</b></h6>
+
 <!--
 **Zinkil-YT/Zinkil-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
